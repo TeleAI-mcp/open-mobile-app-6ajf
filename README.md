@@ -1,2 +1,3 @@
-# open-mobile-app-6ajf
+# Open Mobile App 6Ajf
+
 A mobile application for modern development workflows.
